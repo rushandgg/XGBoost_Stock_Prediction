@@ -25,7 +25,7 @@ Direction accuracy is **75.53%**. But prediction movement is...<br/>
 
 **3. Apply Stock Prediction**<br/>
 ![predict_samsung](https://user-images.githubusercontent.com/60992415/188851003-d4ca8316-5882-4b42-b207-0a291ca06ab1.png)<br/>
-Data is Samsung Electronics Stock Price and model, parameters, indicators are same things<br/><br/>
+Data is Samsung Electronics Stock Price. Model, parameters, indicators are same things<br/><br/>
 
 ![acccc](https://user-images.githubusercontent.com/60992415/188851661-ee8b9e2f-77be-495a-8b63-bf175f1f096f.png)<br/>
 Direction acc is **58.97%**...  :(<br/><br/>
