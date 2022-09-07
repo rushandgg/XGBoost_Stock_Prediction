@@ -11,14 +11,12 @@
 # Reference Review & Applying
 
 **1. Paper Accuracy**<br/>
-<br/>
 In the ref, the accuracy of predicting the direction of KOSPI 200 is **81.36%**<br/><br/>
 ![acc](https://user-images.githubusercontent.com/60992415/188822463-153f7593-0492-4169-a361-4c43192834c4.png)<br/>
 So.. my purpose is to see if this acc is real a number, and if it's real, I'm going to apply it to stock predictions.<br/>
 <br/>
 <br/>
 **2. Build Model and Check Regression**<br/>
-<br/>
 I made it as similar as possible to the refference.<br/><br/>
 ![accc](https://user-images.githubusercontent.com/60992415/188849272-9cd6c1e3-53af-4306-8428-ecfdd9a7c544.png)<br/><br/>
 Direction accuracy is **75.53%**. But prediction movement is...<br/>
