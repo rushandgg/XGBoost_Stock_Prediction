@@ -34,6 +34,6 @@ Direction acc is **58.97%**...  :(<br/><br/>
 I think the KOSPI200 is an index, so the accuracy is high because movement is not complicated,<br/>
 and individual stocks are difficult to predict because movement is complicated.<br/><br/>
 
-If you see a problem while looking at my code, please let me know.<br/>
+**If you see a problem while looking at my code, please let me know.**<br/>
 <br/>
 **Thanks!**<br/>
